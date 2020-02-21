@@ -15,3 +15,6 @@ When complete, you'll be able to grab random quotes from the command line, like 
 ## Start the Tutorial
 
 You can find your next step in [this repo's issues](../../issues/)!
+
+## Just FYI
+This is a file-based quote bot written in Python from https://lab.github.com/everydeveloper/introduction-to-python
